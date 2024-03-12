@@ -37,6 +37,7 @@ PriorityPanda includes the following pages:
 
  
 
+![Capture](https://github.com/dzejlaomerhodzic/priority-panda-issues/assets/127256609/9cf9b43c-91ab-46ca-8af1-677cd2290ff7)
 
 
 
