@@ -75,6 +75,7 @@ Personal List Page displays a user’s personal to-do-list with options of edit,
 Create a button consisting of components which make the page more organized and manageable. The components within the button include:
 -	Sort personal tasks by due date, priority, or status.
 -	Filter personal tasks based on tags and labels.
+  
 The personal list page contains the following navigation:
 -	Link to personal task creation page
 -	Link to the homepage 
@@ -88,6 +89,7 @@ The personal list page contains the following navigation:
 4. 4. Workspaces Page
       
 Workspaces Page shows a list of all different workspaces. If clicked on one of the workspaces it would lead to a different Workspace Page specific for that workspace. The workspaces as personal tasks have distinctive colors in order for the different workspaces to be more visible and distinctive. In addition each  workspace contains a title and description. 
+
 The workspaces page contains the following navigation: 
 -	Link to a specific workspace that the user choses
 -	Link to the homepage
@@ -98,6 +100,7 @@ The workspaces page contains the following navigation:
 4. 5. Workspace Page:
       
 This page shows a detailed view of tasks within a specific workspace where management tasks are done with team members and workspace-specific updates and files are shared. Each workspace consists of a showcase of different tasks within each group which can be created, edited or deleted. The tasks are divided into three groups: To-Do, Doing and Done. The tasks that are in the To-Do section have red background signaling that they have not been started yet, the tasks that are in the Doing section have a yellow background signaling that they are in progress and the tasks that are in the Done section have a green background signaling that they are done. Inside the section boxes, the tasks that are not yet done will have a due date, while the finished ones will not. On the workspace page the user has the option to invite collaborators or other users to that specific workspace. 
+
 The workspace page contains the following navigation:
 -	Link to the workspaces page
 -	Link to the page for workspace creation
@@ -108,6 +111,7 @@ The workspace page contains the following navigation:
 4. 6. Page for Personal Task Creation
 
 On this page a user has the option to create a new personal task with details such as title, description, due date, priority, and labels to personalize task organization. The labels will be used to characterize the task in one of the already pre-defined: work, school, personal, health, finance, social and other. 
+
 The personal task creation page contains the following navigation:
 -	Link to the homepage
 -	Link to the personal list page
@@ -117,6 +121,7 @@ The personal task creation page contains the following navigation:
 4. 7. Page for Workspace Creation
       
 On this page users have the option to  create a new workspace with a title, description and due date.There will also be an option to add members to the workspace and customize workspace settings.
+
 The page contains the following navigation: 
 -	Link to the homepage
 -	Link to the workspace page
@@ -126,6 +131,7 @@ The page contains the following navigation:
 4. 8. Calendar Page
       
 This page allows viewing of tasks and events on a calendar. An option of selecting whether  to view either only personal tasks, workspaces or both at the same time will also be present on the page. 
+
 The page contains the following navigation:
 -	Link to homepage
 -	Link to sign-out page
@@ -136,6 +142,7 @@ The page contains the following navigation:
 View of performance metrics for that specific user of personal tasks and workspaces. There will be two things visually tracked for better understanding: 
 -	Track Completion rate
 -	Track time spent on the app during one log-in session
+  
 The analytics page contains the following navigation:
 -	Link to the homepage
 -	Link to the sign-out page
@@ -144,6 +151,7 @@ The analytics page contains the following navigation:
 4. 10. Badges Page
        
 The badges will indicate the activity of the user on the application. Based on activity, users will earn badges for achievements or completed tasks. This page will show earned badges for that specific user. There will be a number of different badges and if the user achieved those badges there is a check mark indicating that they are completed.
+
 The badges page contains the following navigation:
 -	Link to the homepage
 -	Link to the sign-out page
