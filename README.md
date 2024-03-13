@@ -216,6 +216,7 @@ Sign-out page:
 **5.	Technical Requirements**
    
 The PriorityPanda will be developed using the following technologies: 
+
 Backend: Java, Spring, PostgreSQL
 Frontend: Angular
 
