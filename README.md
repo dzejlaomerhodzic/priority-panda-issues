@@ -184,12 +184,12 @@ Personal list page:
 
 Workspaces page:
 
-![Workspaces](https://github.com/dzejlaomerhodzic/priority-panda-issues/assets/127256609/f805c0f5-e2e6-46d0-ac5f-a7f015dd2337)
+![Workspaces (1)](https://github.com/dzejlaomerhodzic/priority-panda-issues/assets/127256609/2c1b8a58-ca58-479b-9ebd-dc1412e118ad)
 
 
 Workspace page:
 
-![Workspace](https://github.com/dzejlaomerhodzic/priority-panda-issues/assets/127256609/f2a57ae7-d998-4b40-9958-988f5942f182)
+![Workspace (1)](https://github.com/dzejlaomerhodzic/priority-panda-issues/assets/127256609/60e6d22f-8363-412d-a8cb-4b8ae4c69920)
 
 
 Page for Workspace Creation:
