@@ -231,6 +231,10 @@ Backend: Java, Spring, PostgreSQL
 Frontend: Angular
 
 
+**6.	ERD**
+
+![ERD](https://github.com/dzejlaomerhodzic/priority-panda-issues/assets/127256609/8c70cc36-5d7e-4d39-8026-04113eb6324d)
+
 
 
 
